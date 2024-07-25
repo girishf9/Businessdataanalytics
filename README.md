@@ -1,26 +1,61 @@
-# Businessdataanalytics
-# Girishkumar Patchikoru - Business Data Analytics Portfolio
+# Project Portfolio
 
-## Welcome to my Business Data Analytics Portfolio!
+## Project: Build Deployments for Data Models and Reports
 
-This repository contains a collection of my projects utilizing Power BI for data analytics and visualization. Each project demonstrates my skills in data collection, analysis, and visualization, providing insights and supporting decision-making processes.
+### Objective
+The main aim was to create build deployments (BD) to source data models and generate reports efficiently within DevOps automation projects, integrating PowerBI for effective data visualization and analysis.
 
-### Projects
+### Summary
+- Designed and developed detailed data models.
+- Implemented PowerBI reports to deliver clear, actionable insights.
+- Utilized DevOps practices to automate report deployments.
 
-#### 1. Build Deployment Data Models and Reports
-- **Description**: Created Build Deployments (BD) for sourcing data models and reports in DevOps Automation Projects.
-- **Summary**: Leveraged Power BI to design and deploy comprehensive data models and reports. The project aimed at optimizing data visualization for the backend team, ensuring efficient monitoring and analysis of build deployment processes.
-- **Results**: Improved the efficiency of data monitoring, enabling the backend team to proactively address deployment issues, thus reducing downtime and enhancing workflow continuity.
+### Results
+- Enhanced the efficiency and accuracy of data reporting.
+- Improved data-driven decision-making with real-time insights.
+- Streamlined the reporting process, cutting down on time and manual effort.
 
-#### 2. Infrastructure Development for Power BI Reports
-- **Description**: Developed new infrastructure setups to facilitate the deployment of Power BI reports.
-- **Summary**: Led the design and implementation of infrastructure setups that supported seamless deployment and visualization of Power BI reports. This included integrating cloud-based solutions to ensure scalability and reliability.
-- **Results**: Successfully deployed Power BI reports that provided actionable insights, supporting over 500 internal product and delivery teams in making data-driven decisions.
+---
 
-#### 3. Career Outcome Database Development
-- **Description**: Assisted in developing a career outcome database using Power BI.
-- **Summary**: Contributed to the creation of a robust database to track and analyze career outcomes of graduates. Utilized Power BI to visualize data trends, enhancing the Career Center’s ability to assess the effectiveness of its programs.
-- **Results**: Enabled the Career Center to better understand employment trends, improve employer relations, and refine career services offered to students.
+## Project: PowerShell Script for Config Key-Value Pairs
+
+### Objective
+The project aimed to automate the update process of configuration key-value pairs with a PowerShell script, reducing manual workload and errors in updating configuration settings.
+
+### Summary
+- Developed a custom PowerShell script for automated configuration updates.
+- Integrated the script into existing DevOps pipelines for seamless automated deployments.
+
+### Results
+- Achieved a 10x reduction in manual effort for configuration updates.
+- Increased reliability and consistency of configuration settings.
+- Improved system performance and reduced downtime due to configuration errors.
+
+---
+
+## Project: AFD-CDN Automation in Azure
+
+### Objective
+The goal was to automate the creation of Azure Front Door (AFD) and Content Delivery Network (CDN) profiles to ensure efficient and consistent deployment of network configurations.
+
+### Summary
+- Designed and implemented a PowerShell script to automate AFD and CDN profile creation.
+- Integrated this automation into DevOps projects to streamline deployment processes.
+
+### Results
+- Improved the speed and efficiency of network configuration deployments.
+- Reduced manual intervention and potential errors in network setups.
+- Ensured a scalable, reliable cloud infrastructure to support business operations.
+
+---
+
+## Overall Impact
+These projects significantly enhanced data analytics and DevOps processes at Tata Consultancy Services. By leveraging PowerBI for data visualization and integrating automation scripts, the initiatives achieved:
+
+- Increased efficiency and accuracy in data reporting and configuration management.
+- Reduced manual efforts and minimized errors.
+- Provided real-time insights and streamlined operations, leading to better decision-making and improved system performance.
+
 
 ### Contact
 For more information, feel free to reach out to me at gpatchikoru@islander.tamucc.edu.
